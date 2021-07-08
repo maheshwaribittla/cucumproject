@@ -41,7 +41,7 @@ public class UsedCarSteps {
 
 	@Then("^i should see list of searched cars$")
 	public void i_should_see_list_of_searched_cars() throws Throwable {
-		System.out.println("hello");
+		System.out.println("hello1");
 	}
 	@Given("^I am on the Home page \"([^\"]*)\" of carsGuide website$")
 	public void i_am_on_the_Home_page_of_carsGuide_website(String url) throws Throwable {
