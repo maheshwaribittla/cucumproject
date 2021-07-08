@@ -76,7 +76,7 @@ public class SearchCarsSteps {
 	
 	@Then("^I should see list of searched cars$")
 	public void i_should_see_list_of_searched_cars() throws Throwable {
-		System.out.println("car list found");
+		System.out.println("car list was found");
 	 }
 	
 	
